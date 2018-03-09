@@ -1,5 +1,7 @@
-Declarative Shadow DOM
+![Logo](logo.png) Declarative Shadow DOM
 ---
+
+
 
 A place to experiment and share the ideas regarding declarative approach and syntax for Shadow DOM.
 
